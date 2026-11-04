@@ -1,0 +1,10 @@
+.dark{
+    background-color: rgb(201, 255, 199);
+    color: rgb(255, 255, 255);
+}
+
+.pinkTheme{
+    background-color: pink;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
