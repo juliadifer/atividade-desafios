@@ -1,8 +1,8 @@
-let darkButton = document.querySelector("button");
-let body = document.querySelector("body");
+//let darkButton = document.querySelector("button");
+//let body = document.querySelector("body");
 
-darkButton.addEventListener("click", ()=>{
+//darkButton.addEventListener("click", ()=>{
 
-body.classList.add("dark")
-body.classList.replace("dark", "pinkTheme")
-})
+//body.classList.add("dark")
+//body.classList.replace("dark", "pinkTheme")
+//})

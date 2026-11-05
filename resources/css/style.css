@@ -1,4 +1,4 @@
-.dark{
+/* .dark{
     background-color: rgb(201, 255, 199);
     color: rgb(255, 255, 255);
 }
@@ -7,4 +7,63 @@
     background-color: pink;
     color: rgb(255, 255, 255);
     font-weight: bold;
+} */
+
+
+
+/* *{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box
 }
+body{
+    background-color: rgb(255, 254, 187);
+    text-align: center;
+    color: rgb(155, 123, 94);
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+input {
+    padding: 4px;
+    margin: 2px;
+    border-radius: 5px;
+    border: 1px;
+}
+p {
+    font-weight: bold;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 20%;
+    margin: 0 auto;
+    
+} */
+
+
+/* body{
+    background-color: rgb(206, 247, 190);
+    color: rgb(88, 71, 60);
+}
+button {
+    background-color: rgb(243, 193, 218);
+    color: rgb(88, 71, 60);
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+} */
+
+
+
+/* button {
+    background-color: rgb(255, 151, 54);
+    color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 6px;
+} */
